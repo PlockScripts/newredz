@@ -34,8 +34,8 @@
   "Farm Katakuri V2": ["Farmar Katakuri V2", ""],
   
   "Collect": ["Coletar", ""],
-  "Auto Farm Chest [ Tween ]": ["Auto Farmar Baús [ Tween ]", ""],
-  "Auto Farm Chest [ Bypass ]": ["Auto Farmar Baús [ Bypass ]", ""],
+  "Auto Collect Chest [ Tween ]": ["Auto Coletar Baús [ Tween ]", ""],
+  "Auto Collect Chest [ Bypass ]": ["Auto Coletar Baús [ Bypass ]", ""],
   "Auto Collect Berry": ["Auto Coletar Bagas", ""],
   
   "Boss Farm": ["Farm de Chefes", ""],
@@ -178,7 +178,7 @@
   "Auto Tween To Gear": ["Auto Tween para Engrenagem", ""],
   
   "Fruits": ["Frutas", ""],
-  "Fruits/Raid": ["Frutas/Reide", ""],
+  "Fruits/Raid": ["Frutas/Raid", ""],
   "Auto Random Fruits": ["Auto Frutas Aleatórias", ""],
   "Auto Store Fruits": ["Auto Armazenar Frutas", ""],
   "Auto Teleport Fruits": ["Auto Teleportar Frutas", ""],
@@ -186,16 +186,16 @@
   "Check Stock Fruits": ["Verificar Estoque de Frutas", ""],
   "Stock": ["Estoque", "Carregando..."],
   
-  "Raid Fruits": ["Reide de Frutas", ""],
+  "Raid Fruits": ["Raid de Frutas", ""],
   "Select Chip": ["Selecionar Chip", ""],
   "Auto Buy Chip": ["Auto Comprar Chip", ""],
-  "Auto Start Raid": ["Auto Iniciar Reide", ""],
-  "Auto Farm Raid Next Island": ["Auto Farmar Próxima Ilha da Reide", ""],
+  "Auto Start Raid": ["Auto Iniciar Raid", ""],
+  "Auto Farm Raid Next Island": ["Auto Farmar Próxima Ilha da Raid", ""],
   
-  "Raid Law Sea 2": ["Reide do Law Mar 2", ""],
+  "Raid Law Sea 2": ["Raid do Law Mar 2", ""],
   "Auto Buy Chip Law": ["Auto Comprar Chip do Law", ""],
-  "Auto Start Raid Law": ["Auto Iniciar Reide do Law", ""],
-  "Auto Farm Law Raid": ["Auto Farmar Reide do Law", ""],
+  "Auto Start Raid Law": ["Auto Iniciar Raid do Law", ""],
+  "Auto Farm Law Raid": ["Auto Farmar Raid do Law", ""],
   
   "Teleport": ["Teleporte", ""],
   "Teleport Island": ["Teleportar Ilha", ""],
@@ -206,9 +206,9 @@
   "Sea 2": ["Mar 2", ""],
   "Sea 3": ["Mar 3", ""],
   "Travel": ["Viajar", ""],
-  "Teleport to Sea 1": ["Teleportar para o Mar 1", ""],
-  "Teleport to Sea 2": ["Teleportar para o Mar 2", ""],
-  "Teleport to Sea 3": ["Teleportar para o Mar 3", ""],
+  "Teleport to Sea 1": ["Teleportar para o Mar 1", "Main"],
+  "Teleport to Sea 2": ["Teleportar para o Mar 2", "Dressrosa"],
+  "Teleport to Sea 3": ["Teleportar para o Mar 3", "Zou"],
   "Islands": ["Ilhas", ""],
   "Teleport To Island": ["Teleportar para Ilha", ""],
   "Teleport to Temple of Time": ["Teleportar para o Templo do Tempo", ""],
@@ -315,7 +315,7 @@
   
   "Join Server": ["Entrar no Servidor", ""],
   "Job ID": ["ID do Servidor", "Cole o ID do servidor aqui..."],
-  "Join Clipboard": ["Entrar do Clipboard", "Entrar no servidor pelo ID copiado"],
+  "Join Clipboard": ["Entrar via Clipboard", "Entre no servidor a partir do JobID copiado"],
   
   "Config.": ["Configurações", ""],
   "Farm Distance": ["Distância de Farm", ""],
@@ -344,7 +344,7 @@
   "Menu": ["Menu", ""],
   "Open Title Name": ["Abrir Nome de Título", ""],
   
-  "Local-Player": ["Jogador Local", ""],
+  "Local-Player": ["Jogador-Local", ""],
   "Enable Speed and Jump": ["Ativar Velocidade e Pulo", ""],
   "WalkSpeed": ["Velocidade", ""],
   "JumpPower": ["Pulo", ""],
